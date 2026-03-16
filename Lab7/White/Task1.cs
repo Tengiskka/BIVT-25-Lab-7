@@ -58,7 +58,6 @@ namespace Lab7.White
                 Console.WriteLine($"First jump: {_firstJump:F2}");
                 Console.WriteLine($"Second jump: {_secondJump:F2}");
                 Console.WriteLine($"Sum: {JumpSum:F2}");
-                Console.WriteLine("------------------------");
             }
         }
 
